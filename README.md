@@ -1,4 +1,4 @@
-# Hi, I'm Bill Sandusky 👋
+# Hi, I'm Dr. William Sandusky 👋
 
 Technology leader with 25+ years of experience leading enterprise infrastructure, cloud platforms, cybersecurity, automation, and IT operations.
 
@@ -42,7 +42,6 @@ SQL Server • IIS
 ## Certifications & Education
 
 - Doctor of Business Administration (DBA)
-- MBA
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - IT Leadership & Operations Management
 
